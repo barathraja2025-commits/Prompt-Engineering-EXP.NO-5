@@ -14,3 +14,4 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 OUTPUT:
 
 RESULT: 
+      ChatGPT consistently performs better with basic prompts across most scenarios. Naïve prompts only suffice for straightforward factual questions, but lack depth in creative or analytical tasks.
